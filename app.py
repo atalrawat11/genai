@@ -4,7 +4,6 @@ from langchain.prompts import PromptTemplate
 import warnings
 warnings.filterwarnings("ignore")
 import os 
-os.environ["OPENAI_API_KEY"] = "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"
 st.title("Ayansh Streamlit!")
 
 background_image = "images/jnv.jpg"
